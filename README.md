@@ -6,7 +6,7 @@ Start by downloading the `IML A3.ipynb` notebook along with its datasets from th
 
 ## Documentation
 
-For an in-depth look at my research, access the [Project Documentation](ML_Reprt_git.pdf).
+For an in-depth look at my research, access the [Project Documentation](ML_Report_git.pdf).
 
 ## Kaggle Competition Performance
 
